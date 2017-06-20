@@ -1,2 +1,3 @@
 # electronic_calculator
-implement an easy electronic calculator using javascript
+
+FreeCodeCamp [build a Javascript calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator")
